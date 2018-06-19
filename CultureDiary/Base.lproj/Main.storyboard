@@ -408,7 +408,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2BU-QT-8S4" customClass="CosmosView" customModule="CultureDiary" customModuleProvider="target">
-                                <rect key="frame" x="102" y="329" width="171" height="30"/>
+                                <rect key="frame" x="101" y="329" width="172" height="30"/>
                                 <color key="backgroundColor" red="1" green="0.97394586400000005" blue="0.95953444219999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="number" keyPath="totalStars">

@@ -115,7 +115,7 @@ class MailboxTableViewController: UITableViewController {
             }
             task.resume()
             
-            tableView.deleteRows(at: [indexPath], with: .fade)
+            //tableView.deleteRows(at: [indexPath], with: .fade)
             
         }))
         alert.addAction(UIAlertAction(title: "거절", style: .default, handler: nil))
